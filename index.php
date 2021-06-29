@@ -74,7 +74,9 @@ $faqs = [
     ]
 ]
 ?>
-
+<header>
+    <img src="https://www.dafont.com/forum/attach/orig/5/3/531754.png?1" alt="">
+</header>
 <main>
     <div class="faq-container">
         <?php

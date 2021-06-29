@@ -3,3 +3,35 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    height: 100px;
+}
+
+header img {
+    height: 80%;
+    padding: 1rem;
+}
+
+main {
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.faq-container {
+    width: 70%;
+    margin: 0 auto;
+    max-height: 95vh;
+    overflow: scroll;
+}
+
+h2 {
+    color: rgb(56, 56, 56);
+    padding: 1rem 0;
+}
+
+p,
+li {
+    color: rgb(65, 60, 60);
+    padding-bottom: 2rem;
+}
